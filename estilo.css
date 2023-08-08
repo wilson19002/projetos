@@ -1,0 +1,40 @@
+
+
+body {
+    /* background-color: rebeccapurple; */
+    background-image: linear-gradient(to left, rgb(92, 85, 85), rgb(241, 237, 237) );
+    text-align: center;
+}
+
+    ul {
+        list-style: none;
+    }
+
+    
+
+
+
+    .menu {
+        background-color: rgb(1, 0, 3);
+        border-radius: 15px;
+    }
+
+    
+
+    .menu ul li {
+        display: inline;
+    }
+    .menu ul li a {
+        color: rgb(241, 238, 238);
+        padding: 20px;
+        display: inline-block;
+        text-decoration: none;
+    }
+
+    .menu ul li a:hover {
+        background-color: rgb(151, 151, 231);
+        font-size: 20px;
+        border-radius: 20px;
+        transition-duration: 2s  ;
+    }
+    

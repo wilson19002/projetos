@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://th.bing.com/th/id/R.05b36a776f6c032f2e066bb712861695?rik=XFPN1WZke9EP3g&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fjqz2YF0.jpg&ehk=oNHVfhfssa8zoSuAOoKImM7cHs9ozMdVwzPo%2bop1LoE%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.painel {
+width: 500px;
+height: 500px;
+background-color: white;
+border-radius: 10px;
+padding-left: 40px;
+margin: auto;
+margin-top: 70px;
+border: 1px solid gray;
+}
+
+.botao{
+    background-color: coral;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+}

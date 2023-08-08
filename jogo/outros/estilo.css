@@ -1,0 +1,90 @@
+.quadrado {
+    width:200px;
+    height: 200px;
+
+    text-align: center;
+    font-size: 150px;
+    font-family: fantasy;
+}
+
+.jogo {
+    background: cadetblue;
+    color: white;
+    
+}
+
+body {
+    background-color: bisque;
+}
+
+#q1{
+    background-color: red;
+    border-radius: 20px;
+    
+}
+
+#q2{
+    background-color: black;
+    border-radius: 20px;
+}
+
+#q3{
+    background-color: rgb(118, 216, 52);
+    border-radius: 20px;
+}
+
+#q4{
+    background-color: rgb(232, 0, 253);
+    border-radius: 20px;
+}
+
+#q5{
+    background-color: rgb(47, 0, 255);
+    border-radius: 20px;
+}
+
+#q6{
+    background-color: rgb(232, 248, 0);
+    border-radius: 20px;
+}
+
+#q7{
+    background-color: rgb(231, 218, 218);
+    border-radius: 20px;
+}
+
+#q8{
+    background-color: rgb(253, 101, 0);
+    border-radius: 20px;
+}
+
+#q9{
+    background-color: rgb(63, 29, 29);
+    border-radius: 20px;
+}
+
+
+#jogador1{
+    background-color: rgb(124, 189, 243);
+}
+
+#jogador2{
+    background-color: aqua;
+}
+
+button{
+    border-radius: 5px;
+    background-color: rgb(48, 206, 17);
+    font-size: 20px;
+    margin: 3px;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+.criador{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif  ;
+    
+}

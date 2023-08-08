@@ -1,0 +1,72 @@
+.texto{
+    font-size: 50px;
+    color: aqua;
+}
+
+
+
+.sla {
+    background-color: rgb(1, 0, 3);
+    border-radius: 15px;
+}
+
+.sla{
+    background-color: black;
+    border-radius: 15px;
+}
+.sla ul li {
+    display: inline;
+}
+.sla ul li a {
+    color: rgb(241, 238, 238);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.sla ul li {
+    display: inline;
+}
+.sla ul li a {
+    color: rgb(241, 238, 238);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.sla ul li a {
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+body {
+    /* background-color: rebeccapurple; */
+    background-image: linear-gradient(to left, rgb(92, 85, 85), rgb(241, 237, 237) );
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+
+.texto{
+    font-size: 50px;
+    color: aqua;
+}
+.tabela {
+    text-align: left ;
+    background-color: rgb(44, 158, 224);
+    color:rgb(18, 223, 223) (255, 255, 255);
+    font-family: fantasy;
+    margin: 0px auto;
+    
+}
+
+.tabela tr td:hover{
+    font-size: 20px;
+    color: rgb(214, 17, 204);
+ }
+ .foto {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 0%;
+}

@@ -1,0 +1,7 @@
+.painel{
+    border: 1px solid black;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
